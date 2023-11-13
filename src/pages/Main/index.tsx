@@ -5,7 +5,7 @@ import { Sidebar } from '../../components/Sidebar'
 
 import { Container } from './styles'
 
-import logoImg from '../../assets/logo.svg'
+import logoImg from '../../assets/fastfood.svg'
 
 export default function Main() {
   return (
