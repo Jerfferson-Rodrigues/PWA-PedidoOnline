@@ -4,7 +4,7 @@ import { useCart } from '../../hooks/useCart'
 
 import { Container } from './styles'
 
-import logoImg from '../../assets/logo.svg'
+import logoImg from '../../assets/fastfood.svg'
 import { ReactComponent as CartIcon } from '../../assets/shopping-cart.svg'
 
 export function OrderHeader() {
@@ -13,7 +13,7 @@ export function OrderHeader() {
   return (
     <Container>
       <Link to='/'>
-        <img src={logoImg} alt='Food Commerce' />
+        <img src={logoImg} alt='Lanchonete' />
       </Link>
       <div>
         <div>

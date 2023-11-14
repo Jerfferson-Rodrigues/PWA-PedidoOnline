@@ -8,7 +8,7 @@ export const Container = styled.header`
   justify-content: space-between;
 
   img {
-    width: 8rem;
+    width: 3.4rem;
   }
 
   > div {
